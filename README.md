@@ -13,7 +13,9 @@ I’m actively building foundational knowledge and experiences in IT with a focu
 - [AB-900 Microsoft 365 Copilot & AI Administration Fundamentals](https://learn.microsoft.com/en-us/training/courses/ab-900t00) (Not completed but familiar with material)
 
 <h2>🎓 Education:</h2>
-  B.S. Computer Science at University of North Carolina at Charlotte
+<ul>
+  <li>B.S. Computer Science at University of North Carolina at Charlotte</li>
+</ul>
 
 <h2>🤳 Connect with me:</h2>
 
