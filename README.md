@@ -5,7 +5,7 @@ I’m actively building foundational knowledge and experiences in IT with a focu
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/JosephMinton) Active Directory basics by creating Organizational Units, groups, and users. It explains group scopes and types, demonstrates how to create groups, and includes a hands-on activity to apply these concepts in a basic AD environment.
+  - [Active Directory Home Lab](https://github.com/JosephMinton/Active-Directory) Active Directory basics by creating Organizational Units, groups, and users. It explains group scopes and types, demonstrates how to create groups, and includes a hands-on activity to apply these concepts in a basic AD environment.
 
 <h2>📜 Certifications:</h2>
 
