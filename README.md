@@ -6,6 +6,7 @@ I’m actively building foundational knowledge and experiences in IT with a focu
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/JosephMinton/Active-Directory) by creating Organizational Units, groups, and users. It explains group scopes and types, demonstrates how to create groups, and includes a hands-on activity to apply these concepts in a basic AD environment.
+  - [Ticketing System Home Lab](https://github.com/JosephMinton/Ticketing-System) simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
 
 <h2>📜 Certifications:</h2>
 
