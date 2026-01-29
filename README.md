@@ -15,7 +15,7 @@ I’m actively building foundational knowledge and experiences in IT with a focu
 
 <h2>🎓 Education:</h2>
 <ul>
-  <li>B.S. Computer Science at University of North Carolina at Charlott</li>
+  <li>B.S. Computer Science at University of North Carolina at Charlotte</li>
 </ul>
 
 <h2>🤳 Connect with me:</h2>
