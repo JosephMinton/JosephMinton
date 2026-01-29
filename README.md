@@ -5,7 +5,7 @@ I’m actively building foundational knowledge and experiences in IT with a focu
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/JosephMinton/Active-Directory) by creating Organizational Units, groups, and users. It explains group scopes and types, demonstrates how to create groups, and includes a hands-on activity to apply these concepts in a basic AD environment.
+  - [Active Directory Home Lab](https://github.com/JosephMinton/Active-Directory) by creating Organizational Units, groups, and users. It explains group scopes and types, demonstrates how to create groups, and includes a practical exercise to implement these concepts in a basic AD environment.
   - [Ticketing System Home Lab](https://github.com/JosephMinton/Ticketing-System) simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
 
 <h2>📜 Certifications:</h2>
@@ -22,19 +22,4 @@ I’m actively building foundational knowledge and experiences in IT with a focu
 
 [<img align="left" alt="JosephMinton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/josephkdminton/)
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: [](https://www.linkedin.com/in/josephkdminton/)
