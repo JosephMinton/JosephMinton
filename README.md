@@ -5,13 +5,13 @@ I’m consistently building foundational knowledge and experiences in IT with a 
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Enterprise Active Directory Security Governance Lab](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) simulates Windows Server 2022 environment configuring AD with OUs, security groups, and implementing GPOs to enforce security policies like password complexity and USB restrictions. 
+  - [Enterprise Active Directory Security Governance Lab](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) build a secure Windows Server environment, create administrative policies, and join a client PC to verify that those security rules are successfully enforced in a real world scenario.
   - [Ticketing System Lab](https://github.com/JosephMinton/Ticketing-System) simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
 
 <h2>📜 Certifications:</h2>
 
-- [MS-900 Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/?practice-assessment-type=certification#certification-prepare-for-the-exam) (In progress - Expected February 2026)
-- [AB-900 Microsoft 365 Copilot & AI Administration Fundamentals](https://learn.microsoft.com/en-us/training/courses/ab-900t00) (Not completed but familiar with material)
+- [MS-900 Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/?practice-assessment-type=certification#certification-prepare-for-the-exam)
+- [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/) (In progress, expected 04/26 [2 months from now)
 
 <h2>🎓 Education:</h2>
 <ul>
