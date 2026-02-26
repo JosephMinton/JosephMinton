@@ -11,7 +11,7 @@ I’m consistently building foundational knowledge and experiences in IT with a 
 <h2>📜 Certifications:</h2>
 
 - [MS-900 Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JosephMinton-0053/1D654E9D03DD3AA3?sharingId=91C3523848F7E31)
-- [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/) (In progress, expected 04/26 [2 months from now)
+- [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/) (In progress, expected 04/26 [2 months from now])
 
 <h2>🎓 Education:</h2>
 <ul>
