@@ -5,7 +5,7 @@ I’m consistently building foundational knowledge and experiences in IT with a 
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Enterprise Active Directory Security Governance Lab](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) building a secure Windows Server environment, create administrative policies, and join a client PC to verify that those security rules are successfully enforced in a real world scenario.
+  - [Enterprise Active Directory Security Governance Lab](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) building a secure Windows Server infrastructure, enforcing administrative GPOs, and joining client workstations to verify security enforcement while deploying FSRM storage governance to automate and protect enterprise network resources.
   - [Ticketing System Lab](https://github.com/JosephMinton/Ticketing-System) simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
 
 <h2>📜 Certifications:</h2>
