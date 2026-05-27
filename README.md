@@ -5,8 +5,9 @@ I’m consistently building foundational knowledge and experiences in IT with a 
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Enterprise Active Directory Security Governance Lab](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) building a secure Windows Server infrastructure, enforcing administrative GPOs, and joining client workstations to verify security enforcement while deploying FSRM storage governance to automate and protect enterprise network resources.
-  - [Ticketing System Lab](https://github.com/JosephMinton/Ticketing-System) simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
+  - [Enterprise Active Directory Security Governance](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) building a secure Windows Server infrastructure, enforcing administrative GPOs, and joining client workstations to verify security enforcement while deploying FSRM storage governance to automate and protect enterprise network resources.
+  - [Ticketing Systems](https://github.com/JosephMinton/Ticketing-System) simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
+  - [Microsoft 365 Enterprise Simulation](https://github.com/JosephMinton/Microsoft-365-Enterprise) Provisioned and administered a Microsoft 365 tenant simulating enterprise identity, security, and compliance workflows across user lifecycle management, RBAC, Conditional Access, Intune MDM, Purview data governance, and PowerShell automation.
 
 <h2>📜 Certifications:</h2>
 
