@@ -24,3 +24,7 @@ I’m consistently building foundational knowledge and experiences in IT with a 
 [<img align="left" alt="JosephMinton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/josephkdminton/
+
+[<img align="left" alt="JosephMinton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+[medium]: https://medium.com/@joseph.kimokeo
