@@ -6,13 +6,13 @@ I’m consistently building foundational knowledge and experiences in IT with a 
 <h2>👨‍💻 IT Projects:</h2>
 
   
-  - [Microsoft 365 Enterprise Lab ☁️](https://github.com/JosephMinton/Microsoft-365-Enterprise) Provisioned and administered a Microsoft 365 tenant simulating enterprise identity, security, and compliance workflows across user lifecycle management, RBAC, Conditional Access, Intune MDM, Purview data governance, and PowerShell automation.
-  - [Enterprise Windows Server & Active Directory Administration Lab 🖥](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) building a secure Windows Server infrastructure, enforcing administrative GPOs, and joining client workstations to verify security enforcement while deploying FSRM storage governance to automate and protect enterprise network resources.
-  - [Ticketing Systems Lab 📥](https://github.com/JosephMinton/Ticketing-System) simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
+  - [Microsoft 365 Enterprise Lab](https://github.com/JosephMinton/Microsoft-365-Enterprise) ☁️ Provisioned and administered a Microsoft 365 tenant simulating enterprise identity, security, and compliance workflows across user lifecycle management, RBAC, Conditional Access, Intune MDM, Purview data governance, and PowerShell automation.
+  - [Enterprise Windows Server & Active Directory Administration Lab](https://github.com/JosephMinton/Enterprise-Active-Directory-Security-Governance-Lab) 🖥 building a secure Windows Server infrastructure, enforcing administrative GPOs, and joining client workstations to verify security enforcement while deploying FSRM storage governance to automate and protect enterprise network resources.
+  - [Ticketing Systems Lab](https://github.com/JosephMinton/Ticketing-System) 📥 simulates a Tier 1 help desk workflow. Create, document, prioritize, resolve, and escalate tickets while practicing SLA and ticket lifecycle best practices.
 
 <h2>🌐 Networking Projects:</h2>
 
-  - [VLAN Segmentation and Trunking Lab (Cisco Packet Tracer 🔀)](https://github.com/JosephMinton/VLAN-Segmentation-Network-Routing-Lab-Cisco-Packet-Tracer) configures VLAN segmentation, 802.1Q trunking, native VLAN hardening, and router on a stick inter VLAN routing across two Cisco 2960 switches and a 1941 router in Packet Tracer, with troubleshooting for a native VLAN mismatch and a port to VLAN misassignment.
+  - [VLAN Segmentation and Trunking Lab (Cisco Packet Tracer)](https://github.com/JosephMinton/VLAN-Segmentation-Network-Routing-Lab-Cisco-Packet-Tracer) 🔀 configures VLAN segmentation, 802.1Q trunking, native VLAN hardening, and router on a stick inter VLAN routing across two Cisco 2960 switches and a 1941 router in Packet Tracer, with troubleshooting for a native VLAN mismatch and a port to VLAN misassignment.
 
 <h2>📜 Certifications:</h2>
 
