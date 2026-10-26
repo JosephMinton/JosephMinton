@@ -12,7 +12,7 @@ I’m consistently building foundational knowledge and experiences in IT with a 
 
 <h2>🌐 Networking Projects:</h2>
 
-  - [VLAN Segmentation and Trunking Lab (Cisco Packet Tracer 🖧)](https://github.com/JosephMinton/VLAN-Segmentation-Network-Routing-Lab-Cisco-Packet-Tracer) configures VLAN segmentation, 802.1Q trunking, native VLAN hardening, and router on a stick inter VLAN routing across two Cisco 2960 switches and a 1941 router in Packet Tracer, with troubleshooting for a native VLAN mismatch and a port to VLAN misassignment.
+  - [VLAN Segmentation and Trunking Lab (Cisco Packet Tracer 🔀)](https://github.com/JosephMinton/VLAN-Segmentation-Network-Routing-Lab-Cisco-Packet-Tracer) configures VLAN segmentation, 802.1Q trunking, native VLAN hardening, and router on a stick inter VLAN routing across two Cisco 2960 switches and a 1941 router in Packet Tracer, with troubleshooting for a native VLAN mismatch and a port to VLAN misassignment.
 
 <h2>📜 Certifications:</h2>
 
